@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/ra_composition_decomposition/static/css/main.a9e21c8a.chunk.css",
+    "main.js": "/ra_composition_decomposition/static/js/main.09a79c0a.chunk.js",
+    "main.js.map": "/ra_composition_decomposition/static/js/main.09a79c0a.chunk.js.map",
+    "runtime-main.js": "/ra_composition_decomposition/static/js/runtime-main.f07b2038.js",
+    "runtime-main.js.map": "/ra_composition_decomposition/static/js/runtime-main.f07b2038.js.map",
+    "static/js/2.ba7da136.chunk.js": "/ra_composition_decomposition/static/js/2.ba7da136.chunk.js",
+    "static/js/2.ba7da136.chunk.js.map": "/ra_composition_decomposition/static/js/2.ba7da136.chunk.js.map",
+    "static/js/3.01f0bc05.chunk.js": "/ra_composition_decomposition/static/js/3.01f0bc05.chunk.js",
+    "static/js/3.01f0bc05.chunk.js.map": "/ra_composition_decomposition/static/js/3.01f0bc05.chunk.js.map",
+    "index.html": "/ra_composition_decomposition/index.html",
+    "static/css/main.a9e21c8a.chunk.css.map": "/ra_composition_decomposition/static/css/main.a9e21c8a.chunk.css.map",
+    "static/js/2.ba7da136.chunk.js.LICENSE.txt": "/ra_composition_decomposition/static/js/2.ba7da136.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f07b2038.js",
+    "static/js/2.ba7da136.chunk.js",
+    "static/css/main.a9e21c8a.chunk.css",
+    "static/js/main.09a79c0a.chunk.js"
+  ]
+}
